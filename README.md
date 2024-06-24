@@ -98,7 +98,7 @@ This project compared the performance of three gradient boosting algorithms (XGB
                     JupyterLab
                 </td>
                 <td colspan="16">
-                       
+                     <p></p>  
                 </td>
             </tr>                                  
     </table>      
