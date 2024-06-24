@@ -104,8 +104,8 @@ This project compared the performance of three gradient boosting algorithms (XGB
     </table>      
        
 <br/>
-> 
-<br/>
+
+
 **How to use this project**
 
 The code in these files can be adapted to perform similar tests and comparisons for different datasets and models.  
@@ -122,6 +122,7 @@ Any environment that can load a python kernel and run jupyter notebooks such as 
 <br/>    
 # Data and Challenges
 <br/>    
+
 The analysis utilizes a popular sample of the Pima Indians Diabetes Database, which presents several challenges:
 - Small sample size
 - Numerous missing measurements 
